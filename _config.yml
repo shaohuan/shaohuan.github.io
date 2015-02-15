@@ -1,2 +1,3 @@
 name: Huan Shao, VIP Cop
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
