@@ -1,14 +1,12 @@
 ---
 layout: post
-title: "How to build Ionic Dev IDE"
+title: "Windows 7, 64位机器上搭建IONIC环境"
 date: 2015-02-16
 ---
 <html>
 	<head>
-		<title>Windows 7, 64位机器上搭建IONIC环境</title>
 	</head>
 	<body>
-		<h1>Windows 7, 64位机器上搭建IONIC环境</h1>
 		<ol>
 			<li>JDK, JRE (1.8)</li>
 			<li>ANT  ANT commond-line tool for building software </li>
