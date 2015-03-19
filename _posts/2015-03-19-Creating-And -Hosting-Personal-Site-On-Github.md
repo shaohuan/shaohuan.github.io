@@ -5,7 +5,9 @@ date: 2015-03-19
 ---
 <html>
   <body>
-       http://jmcglone.com/guides/github-pages/
+       <p>暂时只有英文版，如有需要，我将会翻译成中文版贴出来。<br/>
+          http://jmcglone.com/guides/github-pages/
+        </p>
   </body>
 </html>
 
