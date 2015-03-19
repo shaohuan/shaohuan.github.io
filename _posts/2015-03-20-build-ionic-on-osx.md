@@ -33,8 +33,8 @@ date: 2015-03-20
    可以将nvm的缺省版本：$ nvm alias default 0.12.0
 7. 安装Ionic, Cordova, Gulp等 <br/>
    npm install -g cordova, ionic, gulp  <br/>
-8. 接下来就可以参考IONIC官网上的TUTORIAL来学习了。
-   ionic start myapp blank<br/><br/>
+8. 接下来就可以参考IONIC官网上的TUTORIAL来学习了。<br/>
+   ionic start myapp blank<br/>
    cd myapp<br/>
    ionic platform add ios<br/>
    ionic build ios<br/>
