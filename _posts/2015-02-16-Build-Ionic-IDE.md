@@ -13,7 +13,6 @@ date: 2015-02-16
 			<li>下载ANDROID SDK：ADT-BUNDLE，添加platform-tools路径到环境变量PATH中去。</li>
 			<li>搭建CORDOVA+IONIC 创建第一个ANDROID应用</li>
 		</ol>
-
 	</body>
 	
 </html>
