@@ -23,8 +23,8 @@ date: 2015-03-20
     	rm -rf ~/.npm<br/>
     	rm -rf ~/.bower<br/>
     	rm -rf $NVM_DIR ~/.npm ~/.bower<br/><br/>
-4. Homebrew是一款广受好评的备软件管理神器，要紧跟世界潮流，我们也先安装Homebr/ew.<br/>
-   打开terminal: 运行<em>ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebr/ew/install/master/install)"</em><br/>
+4. Homebrew是一款广受好评的备软件管理神器，要紧跟世界潮流，我们也先安装Homebrew.<br/>
+   打开terminal: 运行<em>ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"</em><br/>
 5. 通过brew安装Nvm <br/>
    $ brew install nvm <br/>
    为了能使Terminal识别nvm，我们需要：<br/>
